@@ -1,5 +1,3 @@
-# DictionaryTest contains 3 main methods
-
 ## PrintFileNamesContainingText(string path, string text)
 Scans and prints all files in given folder path that contain given text string.
 
